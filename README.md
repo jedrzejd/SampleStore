@@ -1,4 +1,4 @@
 # SampleStore
-Project in progess
+Project in progress
 
 ```README.md``` in progress
