@@ -1,4 +1,5 @@
-# SampleStore
-Project in progress
+# Stores REST Api
 
-```README.md``` in progress
+This is built with Flask, Flask-REST, Flask-JWT, and Flask-SQLAlchemy.
+
+Deployed on Heroku.
